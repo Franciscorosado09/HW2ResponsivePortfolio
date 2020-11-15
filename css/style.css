@@ -1,0 +1,20 @@
+
+*{
+    ::after,
+    ::before
+    box-sizing: border-box;
+    font-family: 'Arvo', serif;
+
+}
+
+
+.body {
+    padding: 20px;
+    display: inline;
+    font-family: 'Arvo', serif;
+
+}
+
+.container{ font-family: 'Arvo', serif;
+
+}
