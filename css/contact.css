@@ -1,6 +1,17 @@
 * {
     box-sizing: border-box;
+    font-family: 'Arvo', serif;
   }
+
+
+  body {
+    font-family: 'Arvo', serif;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/595db0b044024313332d1ef8/1556474281600-4IJ603AMV0F01P2PLV6Y/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/White+Marble2.jpg?format=2500w");
+    background-repeat: repeat;
+
+  }
+  
+  
   
   /* Style inputs */
   input[type=text], select, textarea {
@@ -13,7 +24,7 @@
   }
   
   input[type=submit] {
-    background-color: #4CAF50;
+    background-color: #0e7181;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -21,11 +32,11 @@
   }
   
   input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #0e7181;
   }
   
   /* Style the container/contact section */
-  .contact-container {
+  .container {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 10px;
