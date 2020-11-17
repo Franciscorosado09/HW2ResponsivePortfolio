@@ -1,7 +1,4 @@
-*{
-    
-}
-
+/* Added formating for body */
 
 body {
     padding: 20px;
@@ -11,15 +8,3 @@ body {
     background-repeat: repeat;
 }
 
-.container {
-
-    color: black;
-    margin-bottom: 30px;
- }
-
-
- .break{
-    height: 20px;
-    
- }
- 
